@@ -1,3 +1,6 @@
 # Northwestern-Pacific-Diurnal-Internal-Tide
-Northwestern Pacific Diurnal Internal Tide data
 The dataset includes the data of the modelled K1 diurnal internal tide energy data in the northwestern Pacific
+The E_u* and E_v* variables represent the energy flux in the zonal and meridional directions, respectively.
+The lon* and lat* variables represent the longitude and latitude coordinate.
+The CR* indicates the depth-integrated barotropic to baroclinic energy conversion rate.
+The Diss indicates the depth-integrated dissipation rates.
